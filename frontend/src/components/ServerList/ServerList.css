@@ -1,0 +1,18 @@
+.main-list{
+    width: 90%;
+    margin: 50px auto;
+}
+
+.filters label{
+    font-size: 20px;
+}
+
+.server-list{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+
